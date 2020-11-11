@@ -1,0 +1,16 @@
+{
+  "name": "webpack-helloworld",
+  "version": "1.0.0",
+  "description": "test webpack",
+  "scripts": {
+    "build": "webpack"
+  },
+  "author": "ywlee",
+  "license": "ISC",
+  "dependencies": {
+    "css-loader": "^5.0.1",
+    "style-loader": "^2.0.0",
+    "webpack": "^5.4.0",
+    "webpack-cli": "^4.2.0"
+  }
+}
