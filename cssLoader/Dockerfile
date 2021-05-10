@@ -16,7 +16,7 @@ RUN rm /var/www/html/index.nginx-debian.html
 
 WORKDIR /var/www/html
 RUN tree .
-
+RUN cat dist/main.js
 
 ENTRYPOINT /etc/init.d/nginx restart && /bin/bash
 

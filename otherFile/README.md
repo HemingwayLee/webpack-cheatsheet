@@ -1,8 +1,5 @@
 # What
-* `webpack` is for frontend only
-* We need to use npm to install `webpack` and `webpack-cli`
-
-## The syntax is based on nodejs
+* The code is the same as `helloworld`
 
 # How to run
 * Run locally

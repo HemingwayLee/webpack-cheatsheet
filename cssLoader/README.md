@@ -1,7 +1,7 @@
 # What
 * xxx-loader is more like plug-in
 * need to install `css-loader` and `style-loader`
-* css code will be in js code after building 
+* css code will be in js code (`main.js` in this example) after building 
 
 # How to run
 * run locally

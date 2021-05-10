@@ -1,6 +1,4 @@
 # What
-* `webpack` is for frontend only
-* We need to use npm to install `webpack` and `webpack-cli`
 
 ## webpack dev server
 * need to `npm install webpack-dev-server`
@@ -51,3 +49,4 @@ npm run start
 docker build -t webpackdevserver .
 docker run -it --rm -p 9000:9000 webpackdevserver /bin/bash -c "npm run start"
 ```
+
